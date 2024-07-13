@@ -8,9 +8,9 @@ DocReader is an advanced document reading system designed to replace manual docu
 - **Object Detector Component:** Identifies and includes relevant objects within user-provided images to contribute to the immersive narrative.
 - **Streamlit Interface:** Acts as the user interface, capturing inputs and displaying outputs cohesively.
 ## Algorithms
-- **Natural Language Processing (NLP)**
+- **Natural Language Processing (NLP):**
  Implement NLP techniques to convert user-provided text into a machine-readable format for chatbot interactions. This ensures accurate interpretation and extraction of information from text documents.
-- **Image Classification**
+- **Image Classification:**
  Utilize precise image classification algorithms to categorize images provided by users, enhancing the storytelling experience.
-- **Object Detection**
+- **Object Detection:**
  Implement robust object detection algorithms to identify and incorporate relevant objects within user-provided images, adding depth to the narrative.
