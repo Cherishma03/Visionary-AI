@@ -12,7 +12,7 @@ from langchain import HuggingFaceHub
 import os , random 
 from PIL import Image
 from matplotlib import pyplot as plt 
-HUGGINGFACEHUB_API_TOKEN  =   "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"
+HUGGINGFACEHUB_API_TOKEN  =   "Token"
 from transformers import ViTImageProcessor, ViTForImageClassification
 import requests
 import torch
